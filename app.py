@@ -31,8 +31,8 @@ def detect_landmarks(path):
 
     return landmark
     
-print(landmark.description)
 landmark = detect_landmarks(image_path)
+print(landmark.description)
 
 valid = {"Pyramid": "https://go.echoar.xyz/yo8o", "Space Needle": "https://go.echoar.xyz/H98t", 
 "Stonehenge":"https://console.echoar.xyz/samples/webar-chrome/snowy-firefly-0544_1602992125554/index_snowy-firefly-0544_1602992125554.html",
