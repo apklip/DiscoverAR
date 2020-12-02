@@ -1,7 +1,10 @@
 COLLABORATORS:
 Zachary Liong @zliong
+
 Daniel Kim
+
 Daniel Kim
+
 Arnav Mahajan 
 
 # DiscoverAR
